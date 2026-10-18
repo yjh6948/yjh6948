@@ -14,7 +14,7 @@
 
 ## 캡스톤 프로젝트
 
-- **[비대면 출석 및 시험 감독 시스템](https://github.com/yjh6948/exam-proctoring-capstone)** (2025) · Raspberry Pi 카메라 기반 하드웨어와 회로 설계 담당. MediaPipe·OpenCV로 부정행위·졸음·자리 비움·태도 불량 4가지 상황 판정. 초음파 센서로 접근을 감지해 카메라를 켜고 판정 결과를 LED와 MariaDB에 기록
+- **[비대면 출석 및 시험 감독 시스템](https://github.com/yjh6948/exam-proctoring-capstone)** (2025) · Raspberry Pi 5에 카메라·초음파 센서·LED를 GPIO로 연결하고 Mediapipe로 졸음·부재·손 미감지·시선 이탈을 판정해 LED와 MariaDB에 기록. 센서·카메라·Mediapipe 통합과 판정 조건 설정 담당
 - **스마트 자전거 보관소** (2024) · 센서 5종을 직접 고르고 통합 회로 설계. Arduino와 Raspberry Pi로 역할을 나눔. 50회 반복 시험에서 감지 정확도 98%
 
 ## 다루는 도구
