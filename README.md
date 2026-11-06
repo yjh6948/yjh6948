@@ -1,5 +1,7 @@
 # 양준혁 · Yang Junhyeok
 
+> **English:** Electronics Engineering student at Kyonggi University (coursework completed, degree Feb 2027) working on circuit design and embedded hardware. Repositories below include a capstone exam-proctoring system on Raspberry Pi and Verilog/AI practice projects built with Claude Code.
+
 경기대학교 전자공학과 졸업예정(2027.02)이고 회로 설계와 임베디드 하드웨어를 하려고 합니다. 회로를 직접 설계하고 측정과 시뮬레이션으로 확인하는 일을 주로 해 왔습니다.
 
 ## 저장소
